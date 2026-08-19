@@ -1,4 +1,9 @@
-This is material from my Winter Session course at the California Institute of the Arts. There are final projects from select individuals below, with permission of course, and the syllabus. For the slides, lesson plans, or selected class recording please reach out.
+This is material from my Winter Session course at the California Institute of the Arts. There are final projects from select individuals below, with permission of course, and the syllabus.
+
+There are also Python examples that were shown briefly in class to show how more technical ways ML is used as well. The material examples in this folder include KNN and HMM. Other topics/algorithms covered included UMAP, PCA, MLP, different types of loss functions (MSE and Cross-entropy), and simple max synthesis/DSP
+
+For the slides, lesson plans, or selected class recording please reach out.
+
 
 Eric Browning
 Artemis Banks
